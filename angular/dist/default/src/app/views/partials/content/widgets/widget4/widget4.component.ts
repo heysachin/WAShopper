@@ -46,7 +46,7 @@ export class Widget4Component implements OnInit {
 			this.data = shuffle([
 				{
 					pic: './assets/media/files/doc.svg',
-					title: 'Metronic Documentation',
+					title: 'WA Shopper Documentation',
 					url: 'https://keenthemes.com.my/metronic',
 				}, {
 					pic: './assets/media/files/jpg.svg',

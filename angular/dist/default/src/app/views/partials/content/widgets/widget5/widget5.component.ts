@@ -34,7 +34,7 @@ export class Widget5Component implements OnInit {
 				{
 					pic: './assets/media/products/product6.jpg',
 					title: 'Great Logo Designn',
-					desc: 'Metronic admin themes.',
+					desc: 'WA Shopper admin themes.',
 					info: '<span>Author:</span><span class="kt-font-info">Keenthemes</span>' +
 						'<span>Released:</span><span class="kt-font-info">23.08.17</span>',
 					largeInfo: '<div class="kt-widget5__stats">\n' +
@@ -64,7 +64,7 @@ export class Widget5Component implements OnInit {
 				{
 					pic: './assets/media/products/product11.jpg',
 					title: 'Awesome Mobile App',
-					desc: 'Metronic admin themes. Lorem Ipsum Amet.',
+					desc: 'WA Shopper admin themes. Lorem Ipsum Amet.',
 					info: '<span>Author:</span><span class="kt-font-info">Fly themes</span>' +
 						'<span>Released:</span><span class="kt-font-info">23.08.17</span>',
 					largeInfo: '<div class="kt-widget5__stats">\n' +

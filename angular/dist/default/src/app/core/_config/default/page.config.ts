@@ -7,7 +7,7 @@ export class PageConfig {
 			}
 		},
 		'my-page': { // <= add page URL
-			page: { title: 'My page', desc: 'My page desc' } // <= Page name and description
+			page: { title: 'WA Shopper Section', desc: 'WA Shopper Section' } // <= Page name and description
 		},
 		ngbootstrap: {
 			accordion: {
