@@ -1,0 +1,70 @@
+[
+  {
+    "id": "368d3fe8-5643-42bf-b22f-1ef18219ed99",
+    "data": [
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0720fffc-26ff-482b-a703-7918b86636ad",
+    "data": [
+      {
+        "text": "second one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "485360a2-8f0d-4138-b269-7e34f64781ca",
+    "data": [
+      {
+        "text": "$100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "870966a0-6b3d-4e4c-9643-195b2d108cec",
+    "data": [
+      {
+        "text": "hundred",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b913a8b2-ae20-4894-9a2c-e6bc5c8e30c2",
+    "data": [
+      {
+        "text": "how about the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

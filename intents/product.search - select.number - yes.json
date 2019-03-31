@@ -1,0 +1,33 @@
+{
+  "id": "05535055-2e79-4f1a-8ced-3473642a9c28",
+  "parentId": "d3a202f0-61f6-4db0-85d8-ab4567bdcd69",
+  "rootParentId": "91611604-8a8b-4e88-9043-6a978e2ca12b",
+  "name": "product.search - select.number - yes",
+  "auto": true,
+  "contexts": [
+    "productsearch-selectnumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "product.search.select.number.yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Added."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548547,
+  "fallbackIntent": false,
+  "events": []
+}

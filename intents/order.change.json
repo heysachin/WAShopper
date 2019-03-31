@@ -1,0 +1,29 @@
+{
+  "id": "63e7ca13-e661-4eaa-95ba-8477a7772ad1",
+  "name": "order.change",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.change",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sign in to your account and go to the order page to make any changes for your order."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548391,
+  "fallbackIntent": false,
+  "events": []
+}

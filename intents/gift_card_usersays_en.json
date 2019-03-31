@@ -1,0 +1,79 @@
+[
+  {
+    "id": "10d12174-b240-4014-8667-653a65a682a8",
+    "data": [
+      {
+        "text": "I want to order a gift card for my friends birthday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f1844016-4630-435c-9145-1ed5bfdd3fee",
+    "data": [
+      {
+        "text": "do you have gift cards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6f3879f-4521-4108-ab7a-8cd82a81ae01",
+    "data": [
+      {
+        "text": "I\u0027m looking for a gift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6233e198-5f86-47f2-8b7c-6328655601a1",
+    "data": [
+      {
+        "text": "are there any gift cards available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "179a434d-7b44-4161-9e10-893185ee23c5",
+    "data": [
+      {
+        "text": "gift card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e4c8024-81f2-4193-8754-c66f7855a5d8",
+    "data": [
+      {
+        "text": "I\u0027m interested in buying gift cards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f2ad640-7143-4837-b883-71fb6154ab4a",
+    "data": [
+      {
+        "text": "can you give me gift cards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "89e747fa-3e11-407a-bbef-891e7cf20d3d",
+  "name": "refund.request",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "refund.request",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Any items that you don\u0027t love may be exchanged or returned in our store for free."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548333,
+  "fallbackIntent": false,
+  "events": []
+}

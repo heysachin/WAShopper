@@ -1,0 +1,58 @@
+{
+  "id": "ab923272-33a5-4a20-aa04-67b507679871",
+  "name": "item.swap",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "item.swap",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bcca36f9-2f77-48f0-a100-4f55616dc47a",
+          "required": true,
+          "dataType": "@product",
+          "name": "product-remove",
+          "value": "$product-remove",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which item should I remove?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a8357ad3-b636-4a9b-a149-484ef29af11e",
+          "required": true,
+          "dataType": "@product",
+          "name": "product-add",
+          "value": "$product-add",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which item should I add instead?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548322,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "183dd416-5270-4e4c-81e1-e90ce924f03a",
+    "data": [
+      {
+        "text": "I\u0027m looking for a ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67d070c3-7527-4613-848b-43a4ae7578e9",
+    "data": [
+      {
+        "text": "put the ",
+        "userDefined": false
+      },
+      {
+        "text": "T-Shirt",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": " to my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e50da46c-fee9-49c8-a8a4-6fb1fbbe4d86",
+    "data": [
+      {
+        "text": "add the ",
+        "userDefined": false
+      },
+      {
+        "text": "hat",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": " to my busket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59ec668f-48bb-46be-abd9-e36cd1d6d2c2",
+    "data": [
+      {
+        "text": "I need new ",
+        "userDefined": false
+      },
+      {
+        "text": "shoes",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f710459c-fe00-4934-ad8c-dac0eb6a2f51",
+    "data": [
+      {
+        "text": "I want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "glasses",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c51b7d2f-eea7-430c-8268-fd06eeac8d4e",
+    "data": [
+      {
+        "text": "I want to buy something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

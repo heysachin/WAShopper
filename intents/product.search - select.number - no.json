@@ -1,0 +1,33 @@
+{
+  "id": "be3367fb-b2fa-4d10-9064-6807cc0a7f91",
+  "parentId": "d3a202f0-61f6-4db0-85d8-ab4567bdcd69",
+  "rootParentId": "91611604-8a8b-4e88-9043-6a978e2ca12b",
+  "name": "product.search - select.number - no",
+  "auto": true,
+  "contexts": [
+    "productsearch-selectnumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "product.search.select.number.no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, I won\u0027t add it."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548543,
+  "fallbackIntent": false,
+  "events": []
+}

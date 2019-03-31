@@ -1,0 +1,37 @@
+{
+  "id": "8ab72efc-c327-432c-9b33-b256f0d38f02",
+  "name": "item.add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "item.add",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a571d21f-ba8d-4d75-99e3-93519232c1bd",
+          "dataType": "@product",
+          "name": "product",
+          "value": "$product",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548385,
+  "fallbackIntent": false,
+  "events": []
+}

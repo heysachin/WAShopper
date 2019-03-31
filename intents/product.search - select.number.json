@@ -1,0 +1,48 @@
+{
+  "id": "d3a202f0-61f6-4db0-85d8-ab4567bdcd69",
+  "parentId": "91611604-8a8b-4e88-9043-6a978e2ca12b",
+  "rootParentId": "91611604-8a8b-4e88-9043-6a978e2ca12b",
+  "name": "product.search - select.number",
+  "auto": true,
+  "contexts": [
+    "productsearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "product.search.select.number",
+      "affectedContexts": [
+        {
+          "name": "productsearch-selectnumber-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4f4dc88f-b532-4e82-90e8-dbef52b0708f",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Should I put it in your cart?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548486,
+  "fallbackIntent": false,
+  "events": []
+}

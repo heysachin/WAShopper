@@ -1,0 +1,40 @@
+{
+  "id": "8ab7f976-ab22-4689-9d7d-356a76fcea1c",
+  "name": "delivery.options",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "delivery.options",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can check the shipping charges and time frames on the Delivery page of our website."
+        },
+        {
+          "type": 1,
+          "lang": "en",
+          "title": "",
+          "buttons": [
+            {
+              "text": "Delivery",
+              "postback": "https://www.examplestore.com/delivery"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548327,
+  "fallbackIntent": false,
+  "events": []
+}

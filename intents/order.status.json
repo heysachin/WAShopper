@@ -1,0 +1,58 @@
+{
+  "id": "fcb8a584-5ca1-41c7-b67e-34a35dd53602",
+  "name": "order.status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.status",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1d57c78a-6507-4b2b-90aa-18ad6ea29d3d",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To view the status of a current order, please enter your email address"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "af7c77ce-aaf1-43d2-bd87-96c4b57782eb",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "order-number",
+          "value": "$order-number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your order number"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your order is accepted for processing."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548370,
+  "fallbackIntent": false,
+  "events": []
+}

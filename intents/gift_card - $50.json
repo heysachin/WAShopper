@@ -1,0 +1,33 @@
+{
+  "id": "e0239852-2d7a-4acd-a7dd-bc18db591445",
+  "parentId": "cc793086-dc9f-4d0d-acf7-bb6400660673",
+  "rootParentId": "cc793086-dc9f-4d0d-acf7-bb6400660673",
+  "name": "gift_card - $50",
+  "auto": true,
+  "contexts": [
+    "gift_card-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "gift_card.50",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027ve put it into your cart."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509654105972,
+  "fallbackIntent": false,
+  "events": []
+}

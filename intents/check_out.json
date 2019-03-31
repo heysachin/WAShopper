@@ -1,0 +1,90 @@
+{
+  "id": "91366aa5-e01f-4f23-9d46-a2d615a21b26",
+  "name": "check_out",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "check_out",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "04b4b694-6656-4a7d-a366-262a29cc5e7c",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your email?"
+            }
+          ]
+        },
+        {
+          "id": "793bc5b0-ac18-497b-a198-f1d77cb05444",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "password",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your password please."
+            }
+          ]
+        },
+        {
+          "id": "b8626bea-ecd3-4a94-9bdc-d087ed9a82fa",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "card-number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me your card number please."
+            }
+          ]
+        },
+        {
+          "id": "569a8474-e1dc-47ef-b366-adb768a6b6cc",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "security-code",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I will also need the security code from your card."
+            }
+          ]
+        },
+        {
+          "id": "075cda64-6439-49a8-a8af-72c0201173f8",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "And you full name the way it spelled on the card."
+            }
+          ]
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you for providing the information. Purchase is successful."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548351,
+  "fallbackIntent": false,
+  "events": []
+}

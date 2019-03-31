@@ -1,0 +1,33 @@
+{
+  "id": "3d31f2d1-8977-4a83-bb07-6429c6a0c82b",
+  "parentId": "91611604-8a8b-4e88-9043-6a978e2ca12b",
+  "rootParentId": "91611604-8a8b-4e88-9043-6a978e2ca12b",
+  "name": "product.search - next",
+  "auto": true,
+  "contexts": [
+    "productsearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "product.search.next",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548478,
+  "fallbackIntent": false,
+  "events": []
+}

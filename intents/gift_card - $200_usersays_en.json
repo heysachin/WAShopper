@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d7ae3c5e-7967-4204-9512-02c04f4182f3",
+    "data": [
+      {
+        "text": "how about the one for ",
+        "userDefined": false
+      },
+      {
+        "text": "200 bucks",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dd59b73b-35be-4b3a-a0e0-966dbed6a421",
+    "data": [
+      {
+        "text": "2 hundred",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7a478b08-8344-482e-958e-b885fedbe228",
+    "data": [
+      {
+        "text": "200",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e66c58b4-6301-469c-90b2-1122a69e7eb3",
+    "data": [
+      {
+        "text": "$200",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

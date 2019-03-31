@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c68840c7-11cc-434f-9891-f05293ea25f7",
+    "data": [
+      {
+        "text": "budget phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5eff6c40-c092-4e2d-82ad-930f0f62984c",
+    "data": [
+      {
+        "text": "suggest me budget phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d24ad1c2-692c-4868-a21f-91edb99970b1",
+    "data": [
+      {
+        "text": "which mobile should I buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "977dcf62-9423-430a-a56f-c98def475d1b",
+    "data": [
+      {
+        "text": "mobiles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

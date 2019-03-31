@@ -1,0 +1,98 @@
+[
+  {
+    "id": "61edce99-0904-451e-96ba-adf4b72d2c6c",
+    "data": [
+      {
+        "text": "remove these ",
+        "userDefined": false
+      },
+      {
+        "text": "glasses",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": " from my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1ae4d92-fa23-4828-b07d-90bd945d76bc",
+    "data": [
+      {
+        "text": "remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "shoes",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": true
+      },
+      {
+        "text": " from my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1e2578ec-e0ce-41f4-9bdc-2b9925c0b64c",
+    "data": [
+      {
+        "text": "I\u0027ve changed my mind about ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "product",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": ", remove it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d47e542-17a2-44bf-924c-40d4e862f530",
+    "data": [
+      {
+        "text": "remove the hat from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc44ea7a-88e0-46f1-9d39-4a905ed9b0a8",
+    "data": [
+      {
+        "text": "delete the item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7eeaaeb4-0693-4df2-b1ed-791350cb47b2",
+    "data": [
+      {
+        "text": "remove the item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

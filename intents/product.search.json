@@ -1,0 +1,43 @@
+{
+  "id": "91611604-8a8b-4e88-9043-6a978e2ca12b",
+  "name": "product.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "product.search",
+      "affectedContexts": [
+        {
+          "name": "productsearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1afbc4a7-0b94-407e-913b-dcb269da42a0",
+          "dataType": "@product",
+          "name": "product",
+          "value": "$product",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here are the top picks for $product. Say next/back/more about number 3 to navigate through the results."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548309,
+  "fallbackIntent": false,
+  "events": []
+}

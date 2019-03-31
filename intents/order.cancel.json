@@ -1,0 +1,44 @@
+{
+  "id": "d6e4adf3-b575-4621-82aa-411c4753e5c9",
+  "name": "order.cancel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.cancel",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac5c4aee-ca6c-43d1-951d-21dad106a849",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "order_number",
+          "value": "$order_number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you tell me number of the order you made?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you! I\u0027ve passed your request to our support team. They will do everything they can to accommodate your request."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548378,
+  "fallbackIntent": false,
+  "events": []
+}

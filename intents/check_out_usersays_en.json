@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a7f08439-ffa6-4327-b32b-6ae4e2b991e4",
+    "data": [
+      {
+        "text": "check me out please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f124b5e-71b3-4ac8-a770-cd9c78ec7107",
+    "data": [
+      {
+        "text": "I\u0027m done with shopping let\u0027s checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e6140af-13b7-4a3d-a0a4-5757a2f4f281",
+    "data": [
+      {
+        "text": "I\u0027m ready for check out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1efbeffe-7050-4301-8432-378ededd61b4",
+    "data": [
+      {
+        "text": "let\u0027s check out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c859857-b329-4ef7-be76-46bccc5bc2de",
+    "data": [
+      {
+        "text": "check me out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508947252
+  },
+  {
+    "id": "af58225b-9d5c-432c-a360-f4f0fad850cc",
+    "data": [
+      {
+        "text": "proceed to check out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508947252
+  },
+  {
+    "id": "d3525d55-5f22-4b6d-b2a2-05a26bf4d5f2",
+    "data": [
+      {
+        "text": "check out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508947252
+  }
+]

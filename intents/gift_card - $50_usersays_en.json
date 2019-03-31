@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ac232566-04ee-4e94-aa16-9a88bf44eb09",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "first one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15a3c767-fc21-4241-80e4-0d83865bd912",
+    "data": [
+      {
+        "text": "fifty",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0475f36a-1a26-4921-b21a-35b8a12f0bdb",
+    "data": [
+      {
+        "text": "the cheapest option",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e235def5-498a-4990-9c30-9d54015cd303",
+    "data": [
+      {
+        "text": "50",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7dcc91e6-f05b-4d56-a72f-8927f8fdd205",
+    "data": [
+      {
+        "text": "$50",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

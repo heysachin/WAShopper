@@ -1,0 +1,102 @@
+[
+  {
+    "id": "9530a6cb-4b56-46ea-80a4-de8550eb8908",
+    "data": [
+      {
+        "text": "swap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42e98ee7-67a7-4048-92e2-3d856dccd796",
+    "data": [
+      {
+        "text": "swap the ",
+        "userDefined": false
+      },
+      {
+        "text": "glasses",
+        "alias": "product-remove",
+        "meta": "@product",
+        "userDefined": false
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "hat",
+        "alias": "product-add",
+        "meta": "@product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508879258
+  },
+  {
+    "id": "3e85e6b9-8bfd-4660-986b-621efbbc6138",
+    "data": [
+      {
+        "text": "swap ",
+        "userDefined": false
+      },
+      {
+        "text": "glasses",
+        "alias": "product-remove",
+        "meta": "@product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a9e2681-08c6-4bdd-a67a-c51f4d5a2ce5",
+    "data": [
+      {
+        "text": "replace this ",
+        "userDefined": false
+      },
+      {
+        "text": "laptop",
+        "alias": "product-remove",
+        "meta": "@product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "debc527a-4b44-41d2-86d0-2ada5e34f611",
+    "data": [
+      {
+        "text": "can you replace the ",
+        "userDefined": false
+      },
+      {
+        "text": "shoes",
+        "alias": "product-remove",
+        "meta": "@product",
+        "userDefined": true
+      },
+      {
+        "text": " for the ",
+        "userDefined": false
+      },
+      {
+        "text": "T-Shirt",
+        "alias": "product-add",
+        "meta": "@product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

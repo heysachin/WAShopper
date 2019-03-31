@@ -1,0 +1,37 @@
+{
+  "id": "a41591ea-f65a-4179-8593-a93dc83fad1e",
+  "name": "item.remove",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "item.remove",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b458e6e5-1e1f-4245-be84-051337ee9f87",
+          "dataType": "@product",
+          "name": "product",
+          "value": "$product",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Removed."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653548315,
+  "fallbackIntent": false,
+  "events": []
+}

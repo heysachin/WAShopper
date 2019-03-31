@@ -1,0 +1,53 @@
+{
+  "id": "cc793086-dc9f-4d0d-acf7-bb6400660673",
+  "name": "gift_card",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "gift_card",
+      "affectedContexts": [
+        {
+          "name": "gift_card-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "$50"
+            },
+            {
+              "title": "$100"
+            },
+            {
+              "title": "$200"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I have several gift card choices: $50, $100 and $200. Which one do you prefer?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509653613935,
+  "fallbackIntent": false,
+  "events": []
+}

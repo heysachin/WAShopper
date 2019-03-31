@@ -1,0 +1,38 @@
+[
+  {
+    "value": "laptop",
+    "synonyms": [
+      "laptop"
+    ]
+  },
+  {
+    "value": "book",
+    "synonyms": [
+      "book"
+    ]
+  },
+  {
+    "value": "T-shirt",
+    "synonyms": [
+      "T-shirt"
+    ]
+  },
+  {
+    "value": "glasses",
+    "synonyms": [
+      "glasses"
+    ]
+  },
+  {
+    "value": "hat",
+    "synonyms": [
+      "hat"
+    ]
+  },
+  {
+    "value": "shooes",
+    "synonyms": [
+      "shooes"
+    ]
+  }
+]
